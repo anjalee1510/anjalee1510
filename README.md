@@ -46,9 +46,6 @@ I build and maintain enterprise backend systems using **Java, J2EE/EJB, JSP/Serv
 **Tools:** Git, Maven, Postman, ServiceNow, GitHub Actions  
 **Cloud:** AWS Certified Cloud Practitioner (CCP)
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalee1510&show_icons=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalee1510&layout=compact)
 
 ## Let’s connect
 If you are hiring for **Java / Spring Boot / Backend** roles, feel free to connect with me on LinkedIn.
